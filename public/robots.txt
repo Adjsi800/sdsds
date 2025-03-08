@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://amexgiftcardbalances.com/sitemap.xml
+Sitemap: https://amexgiftcard.netlify.app/sitemap.xml
